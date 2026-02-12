@@ -40,6 +40,7 @@ table {
 }
 td, th{border: solid 3px cornflowerblue;
     text-align: left;
+    padding: 12px;
 }
 tr:nth-child(even){
     background-color: #e2e2e2;
