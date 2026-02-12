@@ -23,6 +23,10 @@
 .JOSEPH{
     color: crimson;
 }
+.JOSEPH:hover{
+    text-shadow:2px 3px 5px goldenrod
+
+}
 .WJoe{
     color:coral;
 }
@@ -45,4 +49,6 @@ td, th{border: solid 3px cornflowerblue;
 tr:nth-child(even){
     background-color: #e2e2e2;
 }
+
+
 
