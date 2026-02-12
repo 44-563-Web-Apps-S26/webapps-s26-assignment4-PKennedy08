@@ -24,8 +24,8 @@
     color: crimson;
 }
 .JOSEPH:hover{
-    text-shadow:2px 3px 5px goldenrod
-
+    text-shadow:2px 3px 5px goldenrod;
+    border: 1px solid black;
 }
 .WJoe{
     color:coral;
