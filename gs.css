@@ -22,11 +22,15 @@
 .CAPT{
     color: aquamarine;
 }
-.SIR-JOESEPH{
+.JOSEPH{
     color: crimson;
+}
+.WJoe{
+    color:coral;
 }
 .BOTH{
     font-size: larger;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
+    color:chartreuse;
 }
