@@ -33,8 +33,15 @@
     color:chartreuse;
 }
 
-table.collapsing {
-    border: solid 3px;
-    border-collapse: collapse;
+table {
+    border: solid 3px cornflowerblue;
+    
+
+}
+td, th{border: solid 3px cornflowerblue;
+    text-align: left;
+}
+tr:nth-child(even){
+    background-color: #e2e2e2;
 }
 
