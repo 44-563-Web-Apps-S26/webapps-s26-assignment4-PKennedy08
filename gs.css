@@ -8,7 +8,6 @@
     font-size: medium;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;
-    
 }
 .directions:hover{
     background-color:azure ;
@@ -17,7 +16,6 @@
 .name{
     font-size: small;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
 .CAPT{
     color: aquamarine;
@@ -34,3 +32,9 @@
     font-style: italic;
     color:chartreuse;
 }
+
+table.collapsing {
+    border: solid 3px;
+    border-collapse: collapse;
+}
+
